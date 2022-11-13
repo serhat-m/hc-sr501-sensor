@@ -1,7 +1,7 @@
 {
   "name": "hc-sr501-motion-sensor",
   "version": "0.1.0",
-  "description": "Node.js based API for the HC-SR501 motion detector",
+  "description": "Node.js based API for the HC-SR501 motion sensor",
   "main": "./dist/cjs/index.js",
   "scripts": {
     "dev": "NODE_ENV=development nodemon index.ts",
