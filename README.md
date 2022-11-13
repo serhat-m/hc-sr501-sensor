@@ -7,7 +7,7 @@ Node.js based API for the HC-SR501 motion detector.
 # Import
 
 ```jsx
-const { HCSR501 } = require("hc-sr501-motion-sensor")
+const { HCSR501 } = require("hc-sr501-sensor")
 ```
 
 # Constructor `HCSR501(sensorPin, delay)`
