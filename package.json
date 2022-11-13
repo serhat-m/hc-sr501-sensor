@@ -1,5 +1,5 @@
 {
-  "name": "hc-sr501-motion-sensor",
+  "name": "hc-sr501-sensor",
   "version": "0.1.0",
   "description": "Node.js based API for the HC-SR501 motion sensor",
   "main": "./dist/cjs/index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serhat-m/hc-sr501-motion-sensor.git"
+    "url": "git+https://github.com/serhat-m/hc-sr501-sensor.git"
   },
   "author": "serhat-m",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/serhat-m/hc-sr501-motion-sensor/issues"
+    "url": "https://github.com/serhat-m/hc-sr501-sensor/issues"
   },
-  "homepage": "https://github.com/serhat-m/hc-sr501-motion-sensor#readme",
+  "homepage": "https://github.com/serhat-m/hc-sr501-sensor#readme",
   "dependencies": {
     "onoff": "^6.0.3"
   },
