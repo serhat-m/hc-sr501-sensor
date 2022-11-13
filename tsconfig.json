@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "module": "CommonJS",
+        "declaration": true,
+        "declarationMap": false,
+        "sourceMap": false,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false
+    },
+    "include": ["index.ts"],
+    "ts-node": {
+        "files": true
+    }
+}
